@@ -1,0 +1,10 @@
+/* 
+  LocalizedString.strings
+  GitHubReposList
+
+  Created by Luiz Zenha on 19/02/20.
+  Copyright © 2020 Zenha. All rights reserved.
+*/
+"Title" = "GitHub - Repositories List";
+"ErrorTitle" = "Ops! Something wrong";
+"Close" = "Close";
